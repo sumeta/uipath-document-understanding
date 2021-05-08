@@ -16,7 +16,7 @@ Ref : https://docs.uipath.com/ai-fabric/docs/uipath-document-understanding
 ### Design
 ![Workflow](https://github.com/sumeta/uipath-document-understanding/blob/main/Screenshot/Design.png)
 
-### Human
+### Human Validation
 ![Workflow](https://github.com/sumeta/uipath-document-understanding/blob/main/Screenshot/Human.png)
 
 ### Result
