@@ -15,3 +15,6 @@ UiPath Document Understanding
 
 ### Human
 ![Workflow](https://github.com/sumeta/uipath-document-understanding/blob/main/Screenshot/Human.png)
+
+### Result
+![Workflow](https://github.com/sumeta/uipath-document-understanding/blob/main/Screenshot/Result.png)
